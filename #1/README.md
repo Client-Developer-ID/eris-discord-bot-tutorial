@@ -1,1 +1,1 @@
-## Eris Bot Project
+## Tutorial kedelapanbelas | Tutorial pertama ERIS
