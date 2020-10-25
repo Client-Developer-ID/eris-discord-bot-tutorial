@@ -1,6 +1,6 @@
 const Discord = require("eris")
-const client = new Discord.CommandClient("NzY4NTExNzExMDQ4ODkyNDk4.X5BiTg.JNW4HLkSU9YinJpi1c8Sbcq3XMA", {}, {
-  prefix: "test>"
+const client = new Discord.CommandClient("Token Bot", {}, {
+  prefix: "Prefix Bot"
 }) //Disini kita akan menggunakan Token Bot kita
 const { readdirSync } = require("fs")
 
